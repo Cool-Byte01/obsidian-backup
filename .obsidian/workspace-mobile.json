@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "156fd4ae0df3daca",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b62e2f6dca11201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f370b8ba2c1368bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Brain.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Second Brain"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da8b09116c026a23",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2ce7d698a62c65ac",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2cc10e7370a4eb74",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7be6afea9601cdbc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "796ea73cfaed33b6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5f55302450ff2149",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f370b8ba2c1368bf",
+  "lastOpenFiles": [
+    "4-Archives/Additional Knowledge/Definisi Tentang Data, Informasi, dan Sistem Informasi.md",
+    "Second Brain.md",
+    "3-Resources/Clippings/Google Advanced Search/Google Advancesd Search Operators.md",
+    "3-Resources/Clippings/Google Advanced Search/Google Search Cheat Sheet.md",
+    "3-Resources/Clippings/Google Advanced Search/Begini Cara Kerja Search Engine Google.md",
+    "4-Archives/Additional Knowledge/Knowledge.md",
+    "4-Archives/Additional Knowledge",
+    "3-Resources/SEO-GAS/Clippings/Google Advanced Search Operators (and How to Use Them).md",
+    "3-Resources/Clippings/First Principles Elon Musk on the Power of Thinking for Yourself.md",
+    "4-Archives/Additional Knowledge/Personal knowledge management - Wikipedia.md",
+    "3-Resources/Clippings/Google Advanced Search/Google Search Cheat Sheet & Quick Reference.md",
+    "Clippings/Personal knowledge management - Wikipedia.md",
+    "3-Resources/SEO-GAS",
+    "3-Resources/SEO-GAS/Clippings",
+    "3-Resources/Clippings/Google Advanced Search",
+    "Clippings",
+    "3-Resources/First Principles Thinking.md",
+    "3-Resources/Personal Knowledge Management.md",
+    "3-Resources/Clippings",
+    "_templates/Note_template.md",
+    "4-Archives/Pengalaman/Mindset Kudanil.md",
+    "4-Archives/Pengalaman",
+    "3-Resources/Frist Principles Thinking.md",
+    "_templates/Note.md",
+    "2025-01-27.md",
+    "4-Archives",
+    "3-Resources",
+    "2-Areas",
+    "oii.md"
+  ]
+}
